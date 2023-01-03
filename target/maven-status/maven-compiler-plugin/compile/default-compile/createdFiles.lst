@@ -1,0 +1,9 @@
+com\petstore\constants\EndPoints.class
+com\petstore\steps\PetSteps.class
+com\petstore\steps\UserSteps.class
+com\petstore\model\PetPojo.class
+com\petstore\utils\TestUtils.class
+com\petstore\App.class
+com\petstore\constants\Path.class
+com\petstore\model\UserPojo.class
+com\petstore\utils\PropertyReader.class
